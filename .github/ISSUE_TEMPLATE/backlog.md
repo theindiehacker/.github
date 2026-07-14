@@ -3,7 +3,6 @@ name: "🚀 Product Backlog"
 about: プロダクトバックログを作成します。
 title: ""
 labels: ["backlog"]
-projects: ["theindiehacker/1"]
 ---
 
 <!--
@@ -59,7 +58,7 @@ projects: ["theindiehacker/1"]
 
 Artifact URL : https://...
 
-<details><summary><b>backend/src/app/application/example_application_service.py</b></summary>
+<details><summary><b>hoge/path/to/example_application_service.py</b></summary>
 
 ```python
 class ExampleApplicationService:
