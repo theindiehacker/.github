@@ -51,7 +51,6 @@ Closes {Issue番号}
 ### ✔️ 動作確認
 
 <!-- どの環境で動作確認を行ったのかわかるようにスクリーンショットや録画を記載してください。
-対応する Todo Issue がある場合は、🧪 テスト方針 の実行結果 (追加した受け入れテストの場所 / `task dev:test` の通過) を記載する。
 動作確認が不要な場合はその旨 (例: ドキュメント / lint 設定のみの変更) を記載してください。
 
 UI 変更の場合は Before / After を残す:
@@ -63,6 +62,4 @@ UI 変更の場合は Before / After を残す:
 API / バックエンド変更の場合は `task dev:test` の通過 / acceptance テスト追加で代替可。
 -->
 
-- [ ] `task style:check` 通過 (ruff / mypy / biome / tflint)
-- [ ] `task dev:test` 通過 (or 該当範囲のみ実行した旨を記載)
 - [ ] UI 変更がある場合: Before / After スクリーンショット添付 (or 動作確認が不要な旨を記載)
